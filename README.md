@@ -2,6 +2,8 @@
 A basic Pretty Good Privacy encryption and decryption tool using RSA-4096.
 ![image](https://github.com/Shao-Fu-Wang/PGPEncryptionTool/assets/45915603/dc51b4ac-3499-485d-aff2-10a1cc0a7dd8)
 
+Click on the PGP tool.exe for direct use.
+
 ## There are mainly 3 functions, which can be used separately.
 
 ### Generating Key Pairs
